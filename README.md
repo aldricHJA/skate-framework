@@ -41,7 +41,7 @@ HOST = 'localhost'
 DBNAME = 'nombre_base_datos'
 ```
 
-<h2>Uso Basico</h2>
+<h2>Uso Básico</h2>
 <strong>creacion de modelo, controlador y vista mediante los comandos CLI.</strong>
 <hr>
 El <strong>skateFramework</strong> incluye una <strong>CLI</strong> que va a facilitar la generación de componentes en el skateFramework

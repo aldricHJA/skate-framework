@@ -14,7 +14,7 @@ class Delantero {
   }
 
   comprobarRuta(ruta, tipo) {
-    const rutaCompleta = `./app/${tipo}/${ruta}`;
+    const rutaCompleta = `./${tipo}/${ruta}`;
     if (!existsSync(rutaCompleta)) {
       fs.mkdir(rutaCompleta, { recursive: true }, (error) => {
         if (!error) {
