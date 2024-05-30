@@ -17,6 +17,8 @@ Basado en Node.js, maneja modelos, vistas y controladores de manera eficiente y 
 <ul style="list-style-type: disc;">
   <li>Node.js (v12 o superior)</li>
   <li>NPM o YARN (Node Package Manager, gestor de paquetes de Node.js)</li>
+  <li>PHP Vrsión7.3.0 o superior</li>
+  <li>Composer version 7.3.0 o superior</li>
 </ul>
 <h3><strong>Pasos de Instalació</strong>n</h3>
 1. Clonar el Repositorio: Clona el repositorio desde GitHub y navega al directorio del proyecto:
